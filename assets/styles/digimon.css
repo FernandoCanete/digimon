@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+form {
+    margin-bottom: 20px;
+}
+#resultadoBusqueda {
+    margin-top: 20px;
+}
+#listaNombres {
+    background-color:antiquewhite;
+    background-attachment: fixed;
+    background-size: cover;
+    border: 1px solid black;
+    padding: 15px;
+    }
+    
+    
+    #listaNombres li {
+        margin-bottom: 10px;
+    }
+    .btn-primary {
+        background-color: blueviolet;
+        border-color:blue;
+    }
+    
+    .btn-primary:hover {
+        background-color: blueviolet;
+        border-color:blue;
+    }
+    
+    
+    .navbar {
+        background-color: gray;
+        color: white;
+    }
+    
+    .navbar-brand {
+        font-size:25px;
+    }
+    
+    .nav-link {
+        font-size: 20px;
+    }
+    
+    .nav-link:hover {
+        color: whitesmoke;
+    }
+    
+   
